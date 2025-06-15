@@ -2,6 +2,7 @@
 Machine learning project to predict car prices based on features like brand, mileage, and engine power.
 
 Dataset: car.csv
+
 The dataset contains car specifications and the target variable 'price'.
 It includes features like:
 - fuel type
@@ -59,5 +60,7 @@ How to Run:
 
 Author:
 Talasila Navya Annapurna
+
 GitHub: https://github.com/NavyaTalasila5
+
 LinkedIn: https://www.linkedin.com/in/navya-talasila-3134a1325/
